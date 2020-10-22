@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(139, 177, 168);
+}
+h1 {
+    color: rgb(154, 110, 203);
+}
+button {
+    background-color: silver;
+    border: none;
+    padding:10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    font-size: 1.1em;
+}
+
+.booklist {
+
+}
+
+
+.list {
+    padding: 5px 10px;
+}
+
